@@ -1,0 +1,6 @@
+id=usb_auto_tether
+name=USB自动网络共享 (Auto USB Tethering)
+version=v2.0
+versionCode=200
+author=酷安：坠欢啊
+description=插入USB后自动开启USB网络共享(RNDIS/NCM)。首次接入时自动探测本机可用的开启方式并缓存，兼容 Android 10~17 / 澎湃OS / MIUI。配置与日志见 /data/adb/usb_auto_tether。作者：酷安：坠欢啊，二次修改/二次发布需经本人同意。
