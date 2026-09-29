@@ -1,0 +1,2 @@
+# usb_auto_tether_magisk
+usb网络共享自动打开的magisk模块
