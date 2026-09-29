@@ -1,0 +1,6 @@
+id=usb_auto_tether
+name=USB自动网络共享 (Auto USB Tethering)
+version=v2.1
+versionCode=210
+author=酷安：坠欢啊
+description=插入USB后自动开启USB网络共享。改为调用系统 Tethering 服务的 setUsbTethering 官方接口（Android 13+ 唯一有效途径），自动适配 RNDIS/NCM；修复 v2.0 盲扫事务码误开飞行模式的问题。配置与日志见 /data/adb/usb_auto_tether。作者：酷安：坠欢啊，二次修改/二次发布需经本人同意。
